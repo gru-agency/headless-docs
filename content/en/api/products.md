@@ -19,16 +19,12 @@ badge: "1.0"
   "object": "product",
   "active": true,
   "created": 1623313645,
+  "updated": 1624107450,
   "description": null,
   "images": [],
   "metadata": {},
   "name": "Durian D24",
-  "package_dimensions": null,
-  "shippable": null,
-  "statement_descriptor": null,
-  "tax_code": null,
-  "unit_label": null,
-  "updated": 1624107450
+  "unitLabel": null
 }
 ```
 
